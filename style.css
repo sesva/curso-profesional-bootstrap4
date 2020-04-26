@@ -1,0 +1,19 @@
+.contenedor{
+    border: 1px solid red;
+}
+
+.fila{
+    border: 1px solid green;
+}
+
+.columna{
+    border: 1px solid blue;
+    background-color: yellow;
+    padding-bottom: 0;
+}
+
+p{
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+}
