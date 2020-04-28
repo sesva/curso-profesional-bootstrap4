@@ -1,0 +1,15 @@
+.b-header{
+    background-color: #002e51;
+
+}
+
+.b-header .navbar{
+    background-color: #002e51;
+    padding: 0;
+    min-width: 60px;
+
+}
+
+.b-header a{
+    color: white;
+}
