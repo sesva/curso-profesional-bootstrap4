@@ -1,0 +1,29 @@
+{
+  "name": "curso-bootstrap-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sesva/curso-profesional-bootstrap4.git"
+  },
+  "keywords": [],
+  "author": "Sebastián Estupiñán vargas <sesva0204@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/sesva/curso-profesional-bootstrap4/issues"
+  },
+  "homepage": "https://github.com/sesva/curso-profesional-bootstrap4#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-util": "^3.0.8"
+  }
+}
